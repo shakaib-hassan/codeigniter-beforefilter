@@ -30,4 +30,6 @@ class User extends MY_Controller {
 }
 </code>
 
-If you dont pass array in the constructor it will assume you want to apply filter on all the methods of a controller. I have used show_error() method in the MY_Controller.php just to give an idea its working, you can comment it out and build your own logic there. 
+If you dont pass array in the constructor it will assume you want to apply filter on all the methods of a controller. I have used show_error() method in the MY_Controller.php just to give an idea its working, you can comment it out and build your own logic there.
+
+Thanks.
